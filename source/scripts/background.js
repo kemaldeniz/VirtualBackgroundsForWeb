@@ -2,13 +2,13 @@ import browser from 'webextension-polyfill';
 
 const photos = [
   {
-    src: "https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&&w=400&fit=crop",
+    src: "file:///Users/kemaldenizozben/Desktop/Fotog%CC%86raf%20-%202.06.2020%2016.19.jpg",
   },
   {
-    src: "https://images.unsplash.com/photo-1484101403633-562f891dc89a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=400&fit=crop",
+    src: "file:///Users/kemaldenizozben/Desktop/Fotog%CC%86raf%20-%2017.05.2020%2013.33.jpg",
   },
   {
-    src: "https://images.unsplash.com/photo-1553503995-b6aefccad354?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=400&fit=crop",
+    src: "file:///Users/kemaldenizozben/Desktop/Fotog%CC%86raf%20-%203.04.2020%2010.17.jpg",
   },
   {
     src: "https://images.unsplash.com/photo-1488409688217-e6053b1e8f42?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=400&fit=crop",
